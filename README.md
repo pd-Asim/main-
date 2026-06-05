@@ -8,22 +8,13 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pandas-Asim-netizen&color=6C63FF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=pd-Asim&color=6C63FF&style=for-the-badge)
 
 </div>
 
 ---
 
 ## 👨‍💻 About Me
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pandas-Asim-netizen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pd-Asim&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-
-</div>
-
-<br/>
 
 - 🎓 **BS Artificial Intelligence** — University of Haripur  
 - ⚙️ **DAE Mechatronics** — GCT Taxila  
@@ -35,6 +26,13 @@
 
 - 📧 Email: **pandas.asim@gmail.com**  
 - 📱 Phone: **+92-314-5372878**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pd-Asim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pd-Asim&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+
+</div>
 
 ---
 
@@ -73,7 +71,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pandas-Asim-netizen&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pd-Asim&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
