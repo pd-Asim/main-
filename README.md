@@ -16,21 +16,22 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **BS Artificial Intelligence** — University of Haripur  
-- ⚙️ **DAE Mechatronics** — GCT Taxila  
+- 🎓 **BS Artificial Intelligence** — University of Haripur
+- ⚙️ **DAE Mechatronics** — GCT Taxila
 - 📍 Based in **Taxila, Pakistan**
-
-- 🤖 Passionate about **AI, Machine Learning & Data Science**  
-- ⚡ Strong in **Electronics & Automation**  
-- 🧠 Love solving real-world problems  
-
-- 📧 Email: **pandas.asim@gmail.com**  
+- 🤖 Passionate about **AI, Machine Learning & Data Science**
+- ⚡ Strong in **Electronics & Automation**
+- 🧠 Love solving real-world problems
+- 📧 Email: **pandas.asim@gmail.com**
 - 📱 Phone: **+92-314-5372878**
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pd-Asim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pd-Asim&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pd-Asim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com/?user=pd-Asim&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -63,7 +64,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pd-Asim&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pd-Asim&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -71,7 +72,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pd-Asim&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pd-Asim&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
@@ -80,7 +81,7 @@
 ## 🎓 Education
 
 | Period | Degree | Institute |
-|------|--------|----------|
+|--------|--------|-----------|
 | 2024 — Present | BS Artificial Intelligence | University of Haripur |
 | 2021 — 2024 | DAE Mechatronics | GCT Taxila |
 | 2019 — 2021 | Matric | Govt High School Bhallar |
@@ -89,35 +90,35 @@
 
 ## 💼 Experience
 
-- 🔧 Project Maker (Electronics + AI)  
-- 🎓 Teacher & Tutor (Science & Tech)  
-- 🎨 Canva Designer (Freelance)  
-- ⚡ Electrical Technician  
-- 💊 Pharmaceutical Sales  
+- 🔧 Project Maker (Electronics + AI)
+- 🎓 Teacher & Tutor (Science & Tech)
+- 🎨 Canva Designer (Freelance)
+- ⚡ Electrical Technician
+- 💊 Pharmaceutical Sales
 
 ---
 
 ## 🏆 Achievements
 
-- 🔬 Lahore Science Mela — Final Year Project Exhibition  
-- 🏅 Tech Exhibition — Hardware + AI Project  
+- 🔬 Lahore Science Mela — Final Year Project Exhibition
+- 🏅 Tech Exhibition — Hardware + AI Project
 
 ---
 
 ## 🌐 Languages
 
-- 🇵🇰 Urdu — Native  
-- 🇬🇧 English — Professional  
-- 🇰🇷 Korean — Basic  
-- 🇨🇳 Chinese — Basic  
+- 🇵🇰 Urdu — Native
+- 🇬🇧 English — Professional
+- 🇰🇷 Korean — Basic
+- 🇨🇳 Chinese — Basic
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🤖 AI-based Object Detection  
-- 📊 Data Analysis with Python  
-- ⚡ Arduino Automation System  
+- 🤖 AI-based Object Detection
+- 📊 Data Analysis with Python
+- ⚡ Arduino Automation System
 
 ---
 
@@ -128,11 +129,11 @@
 <a href="https://www.linkedin.com/in/muhammad-asim-40b5a2353">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:pandas.asim@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://wa.me/923145372878">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
