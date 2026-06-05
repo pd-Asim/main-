@@ -40,9 +40,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pd-Asim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=A855F7&icon_color=6C63FF&text_color=ffffff&bg_color=0d1117" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pd-Asim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=A855F7&icon_color=6C63FF&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pd-Asim&theme=tokyonight&hide_border=true&ring=A855F7&fire=FF6584&currStreakLabel=6C63FF&background=0d1117" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pd-Asim&theme=tokyonight&hide_border=true&ring=A855F7&fire=FF6584&currStreakLabel=6C63FF&background=0d1117" alt="GitHub Streak" height="180"/>
 
 </div>
 
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pd-Asim&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=ffffff&bg_color=0d1117" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pd-Asim&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=ffffff&bg_color=0d1117" alt="Top Languages" height="160"/>
 
 </div>
 
@@ -58,17 +58,26 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pd-Asim&bg_color=0d1117&color=A855F7&line=6C63FF&point=FF6584&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pd-Asim&bg_color=0d1117&color=A855F7&line=6C63FF&point=FF6584&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pd-Asim&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+📊 **Repository Statistics**
+
+![GitHub User's stars](https://img.shields.io/github/stars/pd-Asim?style=social)
+![GitHub followers](https://img.shields.io/github/followers/pd-Asim?style=social)
+
+**Profile Summary:**
+- 🔥 Active Developer & AI Enthusiast
+- 💻 Building innovative projects with Python & AI
+- 🎓 Continuous learner in ML & Computer Vision
+- 🤝 Open to collaborations and contributions
 
 </div>
 
@@ -189,7 +198,7 @@
 
 <br/>
 
-<!-- Animated Contribution Graph -->
+<!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pd-Asim&theme=tokyonight&bg_color=0d1117&color=A855F7&line=6C63FF&point=FF6584&area=true&hide_border=true" alt="Contribution Graph"/>
 
 <br/>
